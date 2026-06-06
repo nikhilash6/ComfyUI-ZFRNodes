@@ -1,5 +1,5 @@
 [project]
-name = "comfyui-zfrnodes"
+name = "ComfyUI-ZFRNodes"
 description = "Story / sequence image generation for ComfyUI: generate a whole consistent multi-frame story from one JSON prompt in a single node, plus single-image text-to-image / image-to-image and small JSON & type helpers."
 version = "1.0.1"
 license = { file = "LICENSE" }
@@ -17,4 +17,5 @@ Repository = "https://github.com/zfrsgtcu/ComfyUI-ZFRNodes"
 [tool.comfy]
 PublisherId = "zfrsgtcu"
 DisplayName = "ComfyUI-ZFRNodes"
-Icon = ""
+Icon = "https://res.cloudinary.com/dhmmjxpep/image/upload/v1772815039/zafersogutcu/images/logo-black_1772815039939.png"
+Documentation = "https://github.com/zfrsgtcu/ComfyUI-ZFRNodes/blob/main/README.md"
